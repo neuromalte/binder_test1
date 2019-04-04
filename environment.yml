@@ -1,5 +1,4 @@
-dependencies:
-  - conda=4.6.10
+dependencies:  
   - python>=3.4
   - cairo
   - pycairo
