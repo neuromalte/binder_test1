@@ -1,4 +1,5 @@
 dependencies:
   - python>=3.4
   - cairo
+  - pycairo
   - pandas
